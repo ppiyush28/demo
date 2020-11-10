@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 1E6A-1006
+
+ Directory of C:\Users\Piyush\Desktop\git demo
+
+11-11-2020  01:12    <DIR>          .
+11-11-2020  01:12    <DIR>          ..
+11-11-2020  00:56    <DIR>          myfolder
+11-11-2020  01:00                 0 New Text Document.txt
+11-11-2020  01:12                 0 tes.txt
+               2 File(s)              0 bytes
+               3 Dir(s)  189,250,846,720 bytes free
