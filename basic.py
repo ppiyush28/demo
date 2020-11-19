@@ -8,8 +8,6 @@ Multiline comment
 Multiline comment
 """
 
-
-
 # integer value
 #a= 10
 a =10.5
